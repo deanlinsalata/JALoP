@@ -1,3 +1,5 @@
+***IMPORTANT*** JALoPv2.x is not supported on Solaris.
+
 Each of the following packages were either installed from sunfreeware.com (sfw)
 or from source obtained from the respective maintainer's site (src).  The order
 in which the packages are listed is the order in which they were installed.
